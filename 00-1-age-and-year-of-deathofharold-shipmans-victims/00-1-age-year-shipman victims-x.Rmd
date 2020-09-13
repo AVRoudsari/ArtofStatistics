@@ -3,6 +3,7 @@
   #output: md_document
   output: html_document
   #output: pdf_document
+  Modified for HINF591
 ---
 
 ***************************************************************************
